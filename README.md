@@ -1,6 +1,11 @@
 # BRAHM JAGOTA
 
 ### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-Java-000?&logo=Java)
+<--
 **BrahmJagota/brahmjagota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
