@@ -12,3 +12,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-000?&logo=nest.js)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)
+
+### Full Stack Projects
+[![](https://img.shields.io/badge/-✏️%20Collaborative--whiteboard-000)](https://github.com/BrahmJagota/collaborative-whiteboard)
+[![](https://img.shields.io/badge/-💬%20Blind-000)](https://github.com/BrahmJagota/blind)
